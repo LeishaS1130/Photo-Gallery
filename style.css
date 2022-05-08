@@ -1,0 +1,110 @@
+h2 {
+    font-family: Snell Roundhand, cursive;
+    font-size: 45px;
+    color: white;
+    align-self: center;
+}
+
+marquee {
+    border-color: beige;
+    border-style: double;
+    border-radius: 15px;
+    border-width: 7px;
+    background: linear-gradient(to bottom, #ff6600 0%, #ffcc00 100%);
+    height: 70px;
+    padding-top: 7px;
+    margin-top: 13px;
+    padding-bottom: 7px;
+    margin-bottom: 13px;
+}
+
+h4 {
+    font-family: "Times New Roman", serif;
+    font-weight: lighter;
+    padding-left: 260px;
+    padding-right: 260px;
+    line-height: 1.7;
+    font-size: 20px;
+    text-align: justify-all;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: 25px;
+    font-family: fantasy;
+    text-align: center;
+    padding-top: 
+}
+
+.menu1 {
+    list-style: none;
+    font-family: "Cinzel Decorative", cursive;
+    font-weight: 400;
+    position: fixed;
+    background-color: beige;
+    border-radius: 15px;
+    top: 3px;
+    margin-bottom: 3px;
+    margin-top: 0px;
+    width: 96%;
+    z-index: 10;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.links {
+    display: inline;
+    padding-top:-5px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-bottom: 7px;
+    font-size: 25px;
+}
+
+.links:hover {
+    background-color: burlywood;
+    color: black;
+    font-size: 25px;
+    border-radius: 15px;
+    cursor: cell;
+}
+
+body {
+    background-color: beige;
+}
+
+.row img {
+    height: 230px;
+    width: 220px;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color:tomato;
+    border-style: double;
+    padding: 5px;
+    margin: 5px;
+}
+
+#Grid {
+    margin-top: 135px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.my_image {
+    object-fit: cover;
+}
+
+.still:hover{
+	height: 260px;
+    width: 250px;
+}
+
+.slide img {
+    height: 10;
+    width: 10;
+}
